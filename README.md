@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm passionate about creating tech that solves real-world problems
                 I love working on projects that combine tech with social good.
                 I’m currently learning React and Node.js, and I can’t wait to apply them to more complex projects.
-
+ -Check out my profile on Coddy.tech: [Coddy.tech Profile](https://coddy.tech/user/PhSUPwv2NhSl9BXqmXR2wHyDfmo1).
 <!---
 FerdawsAnzer/FerdawsAnzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
