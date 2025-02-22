@@ -6,7 +6,9 @@
 - 📫 **How to reach me:**  
   - 📧 Email: [firdawsanzar@gmail.com](mailto:firdawsanzar@gmail.com)  
   - 🌐 LinkedIn: [Ferdaws Anzer](https://www.linkedin.com/in/ferdaws-anzer-71152b29b)  
-- 😄 Pronouns: **She/Her**  
+- 😄 Pronouns: **She/Her**
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FerdawsAnzer&show_icons=true&theme=radical)
+
 
 <!---
 FerdawsAnzer/FerdawsAnzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
