@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FerdawsAnzer  
+- 👋 Hi, I’m @FerdawsAnzer |👨‍💻 Software Engineering Student 
 - 💻 Passionate about building scalable **web & desktop applications** 🌐  
 - ⚡ Check out my profile on Coddy.tech: [Coddy.tech Profile](https://coddy.tech/user/PhSUPwv2NhSl9BXqmXR2wHyDfmo1)  
 - 🌱 Currently learning **React and Node.js**  
