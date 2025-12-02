@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on exciting projects and building practical solutions<br><br>👯 Open to collaborations on innovative ideas<br><br>🤝 Exploring new opportunities to grow and contribute<br><br>💬 Ask me about software development, problem-solving, and tech in general<br><br>⚡ Fun fact: I enjoy creating projects that combine creativity and technology
+🔭 Working on exciting projects and building practical solutions<br>👯 Open to collaborations on innovative ideas<br>🤝 Exploring new opportunities to grow and contribute<br>💬 Ask me about software development, problem-solving, and tech in general<br>⚡ Fun fact: I enjoy creating projects that combine creativity and technology
 
 
 ## 🌐 Socials:
