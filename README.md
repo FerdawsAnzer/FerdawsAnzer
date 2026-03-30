@@ -12,9 +12,7 @@
 
 ![GitHub Stats](https://your-deployment-url.vercel.app/api?username=FerdawsAnzer&show_icons=true&theme=react)
 
-![Streak](https://streak-stats.demolab.com?user=FerdawsAnzer&theme=react)
 
-![Top Languages](https://your-deployment-url.vercel.app/api/top-langs/?username=FerdawsAnzer&layout=compact&theme=react)
 
 ---
 
