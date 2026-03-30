@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=FerdawsAnzer&show_icons=true&theme=react)
+![GitHub Stats](https://your-deployment-url.vercel.app/api?username=FerdawsAnzer&show_icons=true&theme=react)
 
 ![Streak](https://streak-stats.demolab.com?user=FerdawsAnzer&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdawsAnzer&layout=compact&theme=react&hide_border=false)
+![Top Languages](https://your-deployment-url.vercel.app/api/top-langs/?username=FerdawsAnzer&layout=compact&theme=react)
 
 ---
 
