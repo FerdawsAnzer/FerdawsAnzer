@@ -10,8 +10,7 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://your-deployment-url.vercel.app/api?username=FerdawsAnzer&show_icons=true&theme=react)
-
+![Streak](https://streak-stats.demolab.com?user=FerdawsAnzer&theme=react)
 
 
 ---
